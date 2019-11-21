@@ -17,7 +17,7 @@
     <Host Name = "Database" />
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://docomodigital.sharepoint.com/SiteAssets/TaskPane/" />
+    <SourceLocation DefaultValue="https://suoko.github.io/OfficeTaskPane/" />
   </DefaultSettings>
   <Permissions>ReadDocument</Permissions>
 </OfficeApp>
