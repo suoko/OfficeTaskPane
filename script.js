@@ -6,6 +6,7 @@ Office.initialize = function (reason) {
 	});
 };
 
+
 // Reads data from current document selection and displays a notification
 function getDataFromSelection() {
 	console.log("getDataFromSelection called");
